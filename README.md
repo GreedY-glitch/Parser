@@ -1,2 +1,2 @@
-# Parser-for-C-files
+# Parser
 It's the first version of the parser
